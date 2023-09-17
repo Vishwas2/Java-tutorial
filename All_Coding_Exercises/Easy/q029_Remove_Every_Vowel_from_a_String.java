@@ -1,6 +1,6 @@
 // Create a function which takes a string as input and removes all the vowels from it.
 
-package Easy;
+package Exercises.All_Coding_Exercises.Easy;
 
 public class q029_Remove_Every_Vowel_from_a_String {
     static void removeVowel(String input) {

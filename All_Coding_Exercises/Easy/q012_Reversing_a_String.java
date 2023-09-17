@@ -1,7 +1,7 @@
 // Create a method that takes a string as its argument and returns the string in reversed order.
 // reverse("Hello World") ➞ "dlroW olleH"
 
-package easy;
+package Exercises.All_Coding_Exercises.Easy;
 
 public class q012_Reversing_a_String {
     static void reverse(String input) {
