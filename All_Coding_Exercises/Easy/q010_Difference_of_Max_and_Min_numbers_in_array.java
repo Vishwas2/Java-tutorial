@@ -1,11 +1,11 @@
 // Create a function that takes an array of integers as input and prints out the difference between the maximum and the
 // minimum number in the array.
 
-package easy;
+package Exercises.All_Coding_Exercises.Easy;
 
 import java.util.Scanner;
 
-public class q10_Difference_of_Max_and_Min_numbers_in_array {
+class q10_Difference_of_Max_and_Min_numbers_in_array {
     static void differenceBetweenMaxMin(int[] array) {
         int min = array[0];
         int max = array[0];

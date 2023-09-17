@@ -1,4 +1,4 @@
-package Easy;
+package Exercises.All_Coding_Exercises.Easy;
 
 import java.util.Scanner;
 

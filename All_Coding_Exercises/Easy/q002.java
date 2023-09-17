@@ -2,10 +2,7 @@
 // For example:
 // checkEnding("abc","bc") -> true
 
-package All_Coding_Exercises.Easy;
-
-import org.jetbrains.annotations.Contract;
-
+package Exercises.All_Coding_Exercises.Easy;
 public class q002 {
     static boolean checkEnding(String firstString, String secondString) {
         boolean b;
