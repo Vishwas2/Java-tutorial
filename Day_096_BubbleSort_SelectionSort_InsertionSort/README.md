@@ -6,8 +6,9 @@
 
 ## 2. Selection sort :
 
-![R (1).png](..%2F..%2F..%2F..%2FDownloads%2FR%20%281%29.png)
+![R (1)](https://github.com/Vishwas2/c_questions/assets/67436082/4ee8fff0-f7be-4fc1-a3b2-94eb73e85cc3)
 
 ## 3. Insertion sort :
 
-![insertion-sort.webp](..%2F..%2F..%2F..%2FDownloads%2Finsertion-sort.webp)
+![image](https://github.com/Vishwas2/c_questions/assets/67436082/762f8fad-a373-40d1-b1bb-bcbdb12af475)
+
