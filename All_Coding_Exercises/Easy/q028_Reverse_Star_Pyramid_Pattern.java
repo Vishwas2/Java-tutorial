@@ -3,7 +3,7 @@
 // **
 // *
 
-package Easy;
+package Exercises.All_Coding_Exercises.Easy;
 
 public class q028_Reverse_Star_Pyramid_Pattern {
     static void reverseStarPyramid(int input) {
