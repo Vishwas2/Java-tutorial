@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class q017_RecursiveLetterRemoval {
     // Creating a recursive function to remove all the occurrences of a letter from a string
+    static void recursiveLetterRemoval(String input, char letterToRemove) {
+        if (input.charAt(1) == letterToRemove) {
+
+        }
+    }
 
 
     public static void main(String[] args) {
