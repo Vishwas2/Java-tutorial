@@ -4,7 +4,7 @@
 // 123
 // 1234
 
-package Easy;
+package Exercises.All_Coding_Exercises.Easy;
 
 public class q034_Pyramid_Number_Pattern {
     static void numberPattern(int numberOfRows) {
