@@ -14,7 +14,7 @@
 * For authentic and up-to-date information, you can refer to the
   official [Java documentation](https://docs.oracle.com/en/java/javase/21/docs/api/index.html).
 
-* Learning Java can be challenging at times, but persistence is the key to success. Don't give up; keep at it! 😊
+* Learning Java can be challenging at times, but persistence is the key to success. Don't give up, keep at it! 😊
 
 ## Acknowledgements 🥰
 
