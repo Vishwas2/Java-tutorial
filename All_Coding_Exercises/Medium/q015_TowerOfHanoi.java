@@ -3,7 +3,7 @@ package Exercises.All_Coding_Exercises.Medium;
 import java.util.Scanner;
 
 public class q015_TowerOfHanoi {
-    public static void towerOfHanoi(int numberOfRings, String src, String helper, String dest) {
+    static void towerOfHanoi(int numberOfRings, String src, String helper, String dest) {
         if (numberOfRings == 1) {
             System.out.println("Transfer disk " + numberOfRings + " from " + src + " to " + dest);
             return;
