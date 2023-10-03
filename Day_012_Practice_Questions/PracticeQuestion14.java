@@ -12,7 +12,6 @@ public class PracticeQuestion14 {
         System.out.println(myString.indexOf("   "));
         // if double or triple spaces does not exist then we will get -1
         sc.close();
-        sc.close();
         ;
     }
 }

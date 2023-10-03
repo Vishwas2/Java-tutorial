@@ -1,7 +1,7 @@
 // IF ELSE CONDITIONALS IN JAVA
 
 /*If and else helps us to make basic decisions in the program just like life 
-for example : if hungry the eat food, else if thirsty then drink water, else do nothing*/
+for example : if hungry then eat food, else if thirsty then drink water, else do nothing*/
 
 // SAMPLE QUESTION :
 // WAP to take age as input from the user and check whether he can drive or not
