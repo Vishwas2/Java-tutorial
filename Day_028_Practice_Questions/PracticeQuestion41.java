@@ -5,7 +5,7 @@ public class PracticeQuestion41 {
     // static int fibonacci_Recursive(int n){
     // if(n==)
     // }
-    static int fibonacci_Iteratived(int n) {
+    static int fibonacci_Iterative(int n) {
         n--;
         if (n <= 1) {
             return n;
@@ -30,7 +30,7 @@ public class PracticeQuestion41 {
     }
 
     public static void main(String[] args) {
-        int result = fibonacci_Iteratived(5);
+        int result = fibonacci_Iterative(5);
         System.out.println("The 5th number in the fibonacci series is : " + result);
         int n = 5;
         int answer = fibonacci_Recursive(n - 1);
